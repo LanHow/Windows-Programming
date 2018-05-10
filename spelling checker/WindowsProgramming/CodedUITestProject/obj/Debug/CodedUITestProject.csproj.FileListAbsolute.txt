@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\CodedUITestProject\bin\Debug\CodedUITestProject.dll
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\CodedUITestProject\bin\Debug\CodedUITestProject.pdb
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\CodedUITestProject\obj\Debug\CodedUITestProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\CodedUITestProject\obj\Debug\CodedUITestProject.pdb

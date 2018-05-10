@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\bin\Debug\WindowsProgrammingTests.dll
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\bin\Debug\WindowsProgrammingTests.pdb
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\bin\Debug\WindowsProgramming.exe
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\bin\Debug\WindowsProgramming.pdb
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\obj\Debug\WindowsProgrammingTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\obj\Debug\WindowsProgrammingTests.dll
+C:\Users\user\Desktop\視窗程式設計\104820027\WindowsProgramming\WindowsProgrammingTests\obj\Debug\WindowsProgrammingTests.pdb
